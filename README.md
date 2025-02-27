@@ -53,23 +53,23 @@ export default tseslint.config({
 # cấu trúc
 
 src/
-│── assets/               # Chứa hình ảnh, fonts, v.v.
-│── components/           # Chứa các UI component dùng chung
-│   ├── Layout/           # Chứa các layout chính
-│   │   ├── MainLayout.tsx
-│   │   ├── AuthLayout.tsx
-│── hooks/                # Chứa custom hooks (useAppDispatch, useAppSelector)
-│── pages/                # Chứa các trang chính
-│── i18n/                 # Chứa cấu hình i18n
-│   ├── auth/             # Trang đăng nhập, đăng ký
-│   │   ├── Login.tsx
-│   │   ├── Register.tsx
-│   ├── dashboard/        # Trang sau khi login
-│   │   ├── Dashboard.tsx
-│── store/                # Chứa Redux store, slices
-│── styles/               # Chứa file CSS, Tailwind config
-│── App.tsx               # Component gốc
-│── main.tsx              # Entry point
+- │── assets/               # Chứa hình ảnh, fonts, v.v.
+- │── components/           # Chứa các UI component dùng chung
+-   ├── Layout/           # Chứa các layout chính
+- │   │   ├── MainLayout.tsx
+- │   │   ├── AuthLayout.tsx
+- │── hooks/                # Chứa custom hooks (useAppDispatch, useAppSelector)
+- │── pages/                # Chứa các trang chính
+- │── i18n/                 # Chứa cấu hình i18n
+- │   ├── auth/             # Trang đăng nhập, đăng ký
+- │   │   ├── Login.tsx
+- │   │   ├── Register.tsx
+- │   ├── dashboard/        # Trang sau khi login
+- │   │   ├── Dashboard.tsx
+- │── store/                # Chứa Redux store, slices
+- │── styles/               # Chứa file CSS, Tailwind config
+- │── App.tsx               # Component gốc
+- │── main.tsx              # Entry point
 
 
 # Tài khoản đang nhập 
