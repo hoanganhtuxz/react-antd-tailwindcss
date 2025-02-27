@@ -1,0 +1,17 @@
+{
+  "login": {
+    "title": "Đăng nhập",
+    "username": {
+      "placeholder": "Tên đăng nhập",
+      "required": "Vui lòng nhập tên đăng nhập!"
+    },
+    "password": {
+      "placeholder": "Mật khẩu",
+      "required": "Vui lòng nhập mật khẩu!"
+    },
+    "button": "Đăng nhập",
+    "success": "Đăng nhập thành công!",
+    "error": "Lỗi"
+  },
+  "loadingLayout": "Đang tải..."
+}

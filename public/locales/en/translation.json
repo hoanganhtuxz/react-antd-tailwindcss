@@ -1,0 +1,17 @@
+{
+  "login": {
+    "title": "Login",
+    "username": {
+      "placeholder": "Username",
+      "required": "Please enter your username!"
+    },
+    "password": {
+      "placeholder": "Password",
+      "required": "Please enter your password!"
+    },
+    "button": "Login",
+    "success": "Login successful!",
+    "error": "Error"
+  },
+  "loadingLayout": "Loading..."
+}
